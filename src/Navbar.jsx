@@ -80,7 +80,7 @@ let navigate=useNavigate();
     <div class="collapse navbar-collapse ml-3" id="navbarSupportedContent">
       <ul class="navbar-nav  m-auto">
         <li class="nav-item">
-          <NavLink class="nav-link active me-5" id='home' aria-current="page" to="/">Home</NavLink>
+          <NavLink class="nav-link active me-5" id='home' aria-current="page" to="/shopping">Home</NavLink>
         </li>
         <li class="nav-item">
           <NavLink class="nav-link active ms-2" to="/products" id='products'>Products</NavLink>
